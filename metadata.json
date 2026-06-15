@@ -1,0 +1,8 @@
+{
+  "name": "Remix: EnergyWatch BD",
+  "description": "Real-time smart plug energy monitoring and control dashboard with Bangladesh-specific electricity billing, carbon footprint tracking, automated weather rules, and sleep scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
